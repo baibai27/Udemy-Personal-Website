@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+}
+img{
+  display: block;
+  margin: auto;
+}
+.upper{
+  position: absolute;
+  right: 20%;
+  top: 20px;
+}
+.lower{
+  position:absolute;
+  left:20%;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top:100px;
+  text-align: center;
+}
+hr{
+  border-style: dotted;
+  width:15%;
+}
+}
